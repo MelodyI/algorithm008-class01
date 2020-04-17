@@ -1,11 +1,11 @@
 class Solution {
     public int maxArea(int[] height) {
         int maxArea = 0;
-        int i = 0;
-        int j = height.length - 1;
-        while ( i < j ) {
-            int minHeight = (height[i] < height[j])?height[i ++]:height[j --];
-            int currentArea = (j - i + 1) * minHeight;
+        int left = 0;
+        int right = height.length - 1;
+        while ( left < right ) {
+            int minHeight = (height[left] < height[right])?height[left++]:height[right--];
+            int currentArea = (right - left + 1) * minHeight;
             maxArea = (currentArea > maxArea)?currentArea:maxArea;
         }
         return maxArea;
