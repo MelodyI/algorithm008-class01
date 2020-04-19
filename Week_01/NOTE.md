@@ -32,14 +32,15 @@
 刚找到头绪，课程和作业有点多，说明在算法方面还很初级，以后还要更加勤奋一点。非常专业的课程和教授方法，希望越来越多的人看到和参与。
 ## 未完成作业
 ### 要求
-1. 每周需要 review 并点评至少 5 位同学的代码作业或学习总结
-2. 围绕每周重点学习的算法知识点，撰写一篇有观点和思考的技术文章或总结，切忌流水账。
+- [x] 每周从覃超老师布置的题目中，至少完成并提交两道算法题
+- [ ] 每周需要 review 并点评至少 5 位同学的代码作业或学习总结
+- [ ] 围绕每周重点学习的算法知识点，撰写一篇有观点和思考的技术文章或总结，切忌流水账。
 ### 第三课课后习题：
-1. https://leetcode-cn.com/problems/
+* [x] https://leetcode-cn.com/problems/
 remove-duplicates-from-sorted-array/
-2. https://leetcode-cn.com/problems/rotate-array/
-3. https://leetcode-cn.com/problems/merge-two-sorted-lists/
-4. https://leetcode-cn.com/problems/merge-sorted-array/
-5. https://leetcode-cn.com/problems/two-sum/
-6. https://leetcode-cn.com/problems/move-zeroes/
-7. https://leetcode-cn.com/problems/plus-one/
+* [ ] https://leetcode-cn.com/problems/rotate-array/
+- [ ] https://leetcode-cn.com/problems/merge-two-sorted-lists/
+- [ ] https://leetcode-cn.com/problems/merge-sorted-array/
+- [ ] https://leetcode-cn.com/problems/two-sum/
+- [ ] https://leetcode-cn.com/problems/move-zeroes/
+- [ ] https://leetcode-cn.com/problems/plus-one/
