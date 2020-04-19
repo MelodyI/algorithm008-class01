@@ -7,7 +7,7 @@
 3. 脑图
 4. 数据结构和算法
 5. git使用
-### 总结
+### 小结
 相比自己看视频和资料，这门课程的主要区别是更加明确学习目标和独特的学习方法。
 ## 第2课 - 训练准备和复杂度分析
 ### 训练环境设置、编码技巧和Code Style
@@ -20,25 +20,25 @@
 2. 实战题目解析：移动零
 3. 实战题目解析：盛水最多的容器、爬楼梯
 4. 实战题目解析：3数之和、环形链表
-### 总结
+### 小结
 第一次刷LeetCode，刚开始不太熟悉，慢慢找到感觉了。像”环形链表“，一开始不理解题目，在群里提问并试着写代码，最后明白了。“三数之和”，网站上的算法实在理解不了，那部分只好自己处理，而且处理的不够好，后面再慢慢理解吧。
 ## 第4课 - 栈、队列、优先队列、双端队列
 ### 主要内容
 1. 栈和队列的实现与特性
 2. 实战题目解析：有效的括号、最小栈等问题
-### 总结
+### 小结
 栈和队列的原理听懂了，有效的括号也听明白了，最小栈还没有明白。
 ## 总结
 刚找到头绪，课程和作业有点多，说明在算法方面还很初级，以后还要更加勤奋一点。非常专业的课程和教授方法，希望越来越多的人看到和参与。
-## 未完成作业
+## 完成情况
 ### 要求
 - [x] 每周从覃超老师布置的题目中，至少完成并提交两道算法题
 - [ ] 每周需要 review 并点评至少 5 位同学的代码作业或学习总结
 - [ ] 围绕每周重点学习的算法知识点，撰写一篇有观点和思考的技术文章或总结，切忌流水账。
 ### 第三课课后习题：
-* [x] https://leetcode-cn.com/problems/
+- [x] https://leetcode-cn.com/problems/
 remove-duplicates-from-sorted-array/
-* [ ] https://leetcode-cn.com/problems/rotate-array/
+- [ ] https://leetcode-cn.com/problems/rotate-array/
 - [ ] https://leetcode-cn.com/problems/merge-two-sorted-lists/
 - [ ] https://leetcode-cn.com/problems/merge-sorted-array/
 - [ ] https://leetcode-cn.com/problems/two-sum/
