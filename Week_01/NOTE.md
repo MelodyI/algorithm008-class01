@@ -35,7 +35,7 @@
 - [x] 每周从覃超老师布置的题目中，至少完成并提交两道算法题
 - [ ] 每周需要 review 并点评至少 5 位同学的代码作业或学习总结
 - [ ] 围绕每周重点学习的算法知识点，撰写一篇有观点和思考的技术文章或总结，切忌流水账。
-### 第三课课后习题：
+### 第三课课后习题
 - [x] https://leetcode-cn.com/problems/
 remove-duplicates-from-sorted-array/
 - [ ] https://leetcode-cn.com/problems/rotate-array/
@@ -44,3 +44,8 @@ remove-duplicates-from-sorted-array/
 - [ ] https://leetcode-cn.com/problems/two-sum/
 - [ ] https://leetcode-cn.com/problems/move-zeroes/
 - [ ] https://leetcode-cn.com/problems/plus-one/
+### 第四课课后习题
+- [ ] https://leetcode.com/problems/design-circular-deque
+- [ ] https://leetcode.com/problems/trapping-rain-water/
+- [ ] 用add first或add last这套新的API改写Deque的代码
+- [ ] 分析Queue和Priority Queue的源码
