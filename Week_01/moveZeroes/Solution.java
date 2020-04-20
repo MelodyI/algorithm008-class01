@@ -1,15 +1,17 @@
+// https://leetcode-cn.com/problems/move-zeroes/
 class Solution {
+    
     public void moveZeroes(int[] nums) {
-        int lastNonZeroFoundAt = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                nums[lastNonZeroFoundAt++] = nums[i];
+        int slow = 0;
+        for (int fast = 0; fast < nums.length; fast++) {
+            if (nums[fast] != 0) {
+                if (fast != slow) {
+                    nums[slow] = nums[fast];
+                    nums[fast] = 0;
+                }
+                slow++;
             }
         }
-        for (int i = lastNonZeroFoundAt; i < nums.length; i++) {
-            nums[i] = 0;
-        }
-
     }
 
     public static void main(String[] args) {
