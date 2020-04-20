@@ -2,8 +2,7 @@
 class Solution {
     
     public void moveZeroes(int[] nums) {
-        int slow = 0;
-        for (int fast = 0; fast < nums.length; fast++) {
+        for (int slow = 0, fast = 0; fast < nums.length; fast++) {
             if (nums[fast] != 0) {
                 if (fast != slow) {
                     nums[slow] = nums[fast];
