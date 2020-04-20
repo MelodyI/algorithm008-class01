@@ -3,7 +3,7 @@
 |序号|难度|练习题|数组|链表|跳表|栈|队列|优先队列|双端队列|状态|总结|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|X|||||||完成|[连接](./moveZeroes/NOTE.md)|
-|11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)||||||||||||
+|11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|双指针|||||||||完成|无|
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)||||||||||||
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)||||||||||||
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)||||||||||||
