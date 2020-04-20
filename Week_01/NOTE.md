@@ -1,52 +1,26 @@
-# 学习笔记
+# 第一周：数据结构与算法总览
 这篇是学习记录，技术文章或者总结在这里：[移动零总结](./moveZeroes/NOTE.md)。
-
-## 第1课 - 数据结构与算法总览
-### 主要内容：
-1. 训练目标
-2. 学习方法
-3. 脑图
-4. 数据结构和算法
-5. git使用
-### 小结
-相比自己看视频和资料，这门课程的主要区别是更加明确学习目标和独特的学习方法。
-## 第2课 - 训练准备和复杂度分析
-### 训练环境设置、编码技巧和Code Style
-平时很喜欢弄这些东西，要不总感觉哪不舒服，很对胃口，虽然没有完全按照视频里要求的，但是做了喜欢的。
-### 时间复杂度和空间复杂度
-平时工作时，设计模式用的多些，没有用算法（忘记了还有算法这回事），基本上都还给老师了，感觉从零开始一样。
-## 第3课 - 数组、链表、跳表
-### 主要内容
-1. 数组、链表、跳表的基本实现
-2. 实战题目解析：移动零
-3. 实战题目解析：盛水最多的容器、爬楼梯
-4. 实战题目解析：3数之和、环形链表
-### 小结
-第一次刷LeetCode，刚开始不太熟悉，慢慢找到感觉了。像”环形链表“，一开始不理解题目，在群里提问并试着写代码，最后明白了。“三数之和”，网站上的算法实在理解不了，那部分只好自己处理，而且处理的不够好，后面再慢慢理解吧。
-## 第4课 - 栈、队列、优先队列、双端队列
-### 主要内容
-1. 栈和队列的实现与特性
-2. 实战题目解析：有效的括号、最小栈等问题
-### 小结
-栈和队列的原理听懂了，有效的括号也听明白了，最小栈还没有明白。
-## 总结
-刚找到头绪，课程和作业有点多，说明在算法方面还很初级，以后还要更加勤奋一点。非常专业的课程和教授方法，希望越来越多的人看到和参与。
-## 完成情况
-### 要求
-- [x] 每周从覃超老师布置的题目中，至少完成并提交两道算法题
-- [x] 每周需要 review 并点评至少 5 位同学的代码作业或学习总结
-- [x] 围绕每周重点学习的算法知识点，撰写一篇有观点和思考的技术文章或总结，切忌流水账。
-### 第三课课后习题
-- [x] https://leetcode-cn.com/problems/
-remove-duplicates-from-sorted-array/
-- [ ] https://leetcode-cn.com/problems/rotate-array/
-- [ ] https://leetcode-cn.com/problems/merge-two-sorted-lists/
-- [ ] https://leetcode-cn.com/problems/merge-sorted-array/
-- [ ] https://leetcode-cn.com/problems/two-sum/
-- [ ] https://leetcode-cn.com/problems/move-zeroes/
-- [ ] https://leetcode-cn.com/problems/plus-one/
-### 第四课课后习题
-- [ ] https://leetcode.com/problems/design-circular-deque
-- [ ] https://leetcode.com/problems/trapping-rain-water/
-- [ ] 用add first或add last这套新的API改写Deque的代码
-- [ ] 分析Queue和Priority Queue的源码
+## 知识点及练习覆盖
+|序号|难度|练习题|数组|链表|跳表|栈|队列|优先队列|双端队列|
+|---|---|---|---|---|---|---|---|---|---|
+|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|X|||||||||
+|11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)||||||||||
+|70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)||||||||||
+|15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)||||||||||
+|141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)||||||||||
+|20|简单|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)||||||||||
+|155|简单|[最小栈](https://leetcode-cn.com/problems/min-stack/)||||||||||
+|84|简单|[柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)||||||||||
+|239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)||||||||||
+|26|简单|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)||||||||||
+|189|简单|[旋转数组](https://leetcode-cn.com/problems/rotate-array/)||||||||||
+|21|简单|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||||||||||
+|88|简单|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)||||||||||
+|1|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)||||||||||
+|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)||||||||||
+|66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)||||||||||
+|1641|中等|[设计循环双端队列](https://leetcode.com/problems/design-circular-deque/)||||||||||
+|42|困难|[接雨水](https://leetcode.com/problems/trapping-rain-water/)||||||||||
+### 作业
+- [ ] 用 add first 或 add last 这套新的 API 改写 Deque 的代码
+- [ ] 分析 Queue 和 Priority Queue 的源码
