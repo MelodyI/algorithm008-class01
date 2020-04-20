@@ -8,7 +8,7 @@
 |1|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/description)|X|||完成|[链接](./twoSum/README.md)|
 
 ## 第6课-树、二叉树、二叉搜索树
-|序号|难度|题目|树|二叉树|二叉搜索树|状态|总结|
-|---|---|---|---|---|---|---|---|
-|94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|X||X|完成|[链接](./inorderTraversal/README.md)|
+|序号|难度|题目|树|二叉树|二叉搜索树|状态|
+|---|---|---|---|---|---|---|
+|94|中等|[二叉树的中序遍历](./inorderTraversal)|X||X|完成|
 ## 第6课-堆、二叉堆、图
