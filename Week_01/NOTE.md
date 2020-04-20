@@ -11,7 +11,6 @@
 |21|简单|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||X||||||||
 |88|简单|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|X|||||||||
 |1|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)|X|||||||||
-|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|X|||||||||
 |66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)|X|||||||||
 ## 栈、队列、优先队列、双端队列
 |序号|难度|题目|栈|队列|优先队列|双端队列|状态|总结|
