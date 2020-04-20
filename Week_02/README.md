@@ -13,4 +13,5 @@
 |94|中等|[二叉树的中序遍历](./inorderTraversal)|X||X|完成|
 |144|中等|[二叉树的前序遍历](./preorderTraversal)|X||X|完成|
 |590|简单|[N叉树的后序遍历](./nAryTreePostorderTraversal)|X||X|完成|
+|589|简单|[N叉树的前序遍历](./nAryTreePreorderTraversal)|X||X|完成|
 ## 第6课-堆、二叉堆、图
