@@ -2,9 +2,14 @@
 ## 目标
 职业顶尖级别，一线互联网Offer
 ## 如何精通一个领域
-Chunk it up(庖丁解牛)
-Deliberate practicing(刻意练习)
-Feedback(反馈)
+1. Chunk it up(庖丁解牛)
+2. Deliberate practicing(刻意练习)
+3. Feedback(反馈)
+## 前提条件
+1. 脑图工具
+2. git使用
+3. 数据结构和算法（会不会没关系）
+4. 掌握一门语言
 ## 刻意练习方法
 ### 切题四件套
 1. Clarification
@@ -40,8 +45,6 @@ Feedback(反馈)
 |66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)||||||||||
 |1641|中等|[设计循环双端队列](https://leetcode.com/problems/design-circular-deque/)||||||||||
 |42|困难|[接雨水](https://leetcode.com/problems/trapping-rain-water/)||||||||||
-
-
 ### 作业
 - [ ] 用 add first 或 add last 这套新的 API 改写 Deque 的代码
 - [ ] 分析 Queue 和 Priority Queue 的源码
