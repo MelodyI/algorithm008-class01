@@ -2,7 +2,7 @@
 ## 第3课-数组、链表、跳表
 |序号|难度|题目|数组|链表|跳表|状态|总结|
 |---|---|---|---|---|---|---|---|
-|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|X|||完成|[连接](./moveZeroes/NOTE.md)|
+|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|X|||完成|[连接](./moveZeroes/README.md)|
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|X|||完成||
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|X|||完成||
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|X|||完成||
