@@ -6,9 +6,9 @@
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|X|||||||完成|无|
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|X|||||||完成|无|
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|X|||||||完成|无|
-|141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|X|||||||完成|无|
-|20|简单|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|X|||||||完成|无|
-|155|简单|[最小栈](https://leetcode-cn.com/problems/min-stack/)|X|||||||完成|无|
+|141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)||X||||||完成|无|
+|20|简单|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)||||X||||完成|无|
+|155|简单|[最小栈](https://leetcode-cn.com/problems/min-stack/)||||X||||完成|无|
 |84|简单|[柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|X|||||||完成|无|
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|X|||||||完成|无|
 |26|简单|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|X|||||||完成|无|
