@@ -1,5 +1,5 @@
-# # 第一周：数据结构与算法总览
-## 数组、链表、跳表
+# # 第一周
+## 第3课-数组、链表、跳表
 |序号|难度|题目|数组|链表|跳表|状态|总结|
 |---|---|---|---|---|---|---|---|
 |283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|X|||完成|[连接](./moveZeroes/NOTE.md)|
@@ -12,7 +12,7 @@
 |88|简单|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|X|||||||||
 |1|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)|X|||||||||
 |66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)|X|||||||||
-## 栈、队列、优先队列、双端队列
+## 第4课-栈、队列、优先队列、双端队列
 |序号|难度|题目|栈|队列|优先队列|双端队列|状态|总结|
 |---|---|---|---|---|---|---|---|---|
 |20|简单|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|X||||完成||
