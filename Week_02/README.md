@@ -10,5 +10,5 @@
 ## 第6课-树、二叉树、二叉搜索树
 |序号|难度|题目|树|二叉树|二叉搜索树|状态|总结|
 |---|---|---|---|---|---|---|---|
-|94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|X||X|完成|[链接](./validAnagram/README.md)|
+|94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|X||X|完成|[链接](./inorderTraversal/README.md)|
 ## 第6课-堆、二叉堆、图
