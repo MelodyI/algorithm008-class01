@@ -10,7 +10,7 @@
 
 ### 作业-写一个关于HashMap的小总结(未完成)
 
-## 第6课-树、二叉树、二叉搜索树
+## 第6课(Part A)-树、二叉树、二叉搜索树
 ### 练习题
 |序号|难度|题目|树|二叉树|二叉搜索树|状态|
 |---|---|---|---|---|---|---|
@@ -22,4 +22,24 @@
 
 ### 思考题-树的面试题解法一般都是递归，为什么？(未完成)
 说明：同学们可以将自己的思考写在课程下方的留言区一起讨论，也可以写在第2周的学习总结中。
-## 第6课-堆、二叉堆、图
+## 第6课(Part B)-堆、二叉堆、图
+### 概念
+1. 堆(Heap)：完全二叉树
+2. 二叉堆(Binary Heap)：p >= max(child)或者p <= min(child)
+
+## 每日题目
+|日期|序号|难度|题目|知识点|状态|
+|---|---|---|---|---|---|
+|04-21|x|x|-|-|-|
+
+
+04-20
+今天的每日两题：
+https://leetcode-cn.com/problems/bulls-and-cows/
+https://leetcode-cn.com/problems/word-pattern/
+前者是在上周的google面经的原题。大家好好练习，按照五毒神掌来。
+
+04-21
+https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
+https://leetcode-cn.com/problems/is-subsequence/
+https://leetcode-cn.com/problems/get-kth-magic-number-lcci/
