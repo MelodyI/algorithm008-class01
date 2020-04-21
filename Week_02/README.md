@@ -33,6 +33,10 @@
 |40|简单|[最小的k个数](./zuiXiaoDeKgeShuLcof)|X|||完成|
 |239|困难|[滑动窗口最大值](./slidingWindowMaximum)|X|||完成|
 |347|中等|[前K个高频元素](./topKFrequentElements)|X|||完成|
+|49|中等|[丑数](./chouShuLcof)||||未完成|
+
+### 自学资料
+[HeapSort](https://www.geeksforgeeks.org/heap-sort/)
 
 ## 每日题目
 |日期|序号|难度|题目|知识点|状态|
