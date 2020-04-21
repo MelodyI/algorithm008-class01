@@ -27,32 +27,10 @@ class Solution {
 ### 心得
 1.很巧妙的用了列表size与树level做为比较。<br>
 2.对于null的理解如下：
-```
-#输入
+```java
 [1,null,3,2,4,null,5,6,7,null,8,null,9,10,null,11]
 ```
-<style>
-table {
-    border-collapse: collapse;
-    margin: 0 auto;
-    text-align: center;
-}
-table td, table th {
-    border: 1px solid #cad9ea;
-    color: #666;
-    text-align: center;
-}
-table thead th {
-    background-color: #CCE8EB;
-    color:black;
-}
-table tr:nth-child(odd) {
-    background: #fff;
-}
-table tr:nth-child(even) {
-    background: #F5FAFA;
-}
-</style>
+
 <table>
     <tr>
         <th>level</th>
