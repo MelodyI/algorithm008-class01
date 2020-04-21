@@ -24,7 +24,7 @@ class Solution {
 }
 ```
 
-### 心得
+## 分析
 1.很巧妙的用了列表size与树level做为比较。<br>
 2.对于null的理解如下：
 ```java
