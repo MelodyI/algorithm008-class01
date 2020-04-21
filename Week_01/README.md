@@ -31,24 +31,10 @@
 |日期|序号|难度|题目|知识点|状态|
 |---|---|---|---|---|---|
 |04-13|355|x|设计推特|-|-|
-
-
-04-15
-记得抽空也看一下我给大家初学者如何更好刷leetcode的建议：https://www.bilibili.com/video/BV1G7411o7ca
-https://leetcode-cn.com/problems/transpose-matrix/ 推荐一个简单题给各位今天练手！
-
-04-16
-今天我找的给大家练手的每日一题：https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-各位加油！
-
-04-17
-今天给大家推荐的每日一题：https://leetcode-cn.com/problems/squares-of-a-sorted-array/  大家多练练手！
-以及附加一道：https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
-
-04-18
-今天给大家推荐一个题目 https://leetcode-cn.com/problems/reverse-only-letters/
-用来练习对于数组下标的操作（以及字符串的相关操作）。记得把代码给写短写简洁，有美感。
-
-04-19
-推荐给大家今天的每日一题：https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
-尽可能多的想一下不同的解法；另外即使accepted之后，也多看题解里面，有很多不错的解法。
+|04-15|-|-|[刷LeetCode建议](https://www.bilibili.com/video/BV1G7411o7ca)|-|-|
+|04-15|867|简单|[转置矩阵](./transposeMatrix)|-|-|
+|04-16|1281|简单|[整数的各位积和之差](./subtractTheProductAndSumOfDigitsOfAnInteger/)|-|-|
+|04-17|977|简单|[有序数组的平方](./squaresOfASortedArray)|-|-|
+|04-17|1221|简单|[分割平衡字符串](./splitAStringInBalancedStrings)|-|-|
+|04-18|917|简单|[仅仅反转字母](./reverseOnlyLetters)|-|-|
+|04-19|50|简单|[第一个只出现一次的字符](./diYiGeZhiChuXianYiCiDeZiFuLcof)|-|-|
