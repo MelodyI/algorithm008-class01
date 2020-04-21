@@ -26,3 +26,29 @@
 ### 作业
 - [ ] 用 add first 或 add last 这套新的 API 改写 Deque 的代码
 - [ ] 分析 Queue 和 Priority Queue 的源码
+
+## 每日题目
+|日期|序号|难度|题目|知识点|状态|
+|---|---|---|---|---|---|
+|04-13|355|x|设计推特|-|-|
+
+
+04-15
+记得抽空也看一下我给大家初学者如何更好刷leetcode的建议：https://www.bilibili.com/video/BV1G7411o7ca
+https://leetcode-cn.com/problems/transpose-matrix/ 推荐一个简单题给各位今天练手！
+
+04-16
+今天我找的给大家练手的每日一题：https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+各位加油！
+
+04-17
+今天给大家推荐的每日一题：https://leetcode-cn.com/problems/squares-of-a-sorted-array/  大家多练练手！
+以及附加一道：https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
+
+04-18
+今天给大家推荐一个题目 https://leetcode-cn.com/problems/reverse-only-letters/
+用来练习对于数组下标的操作（以及字符串的相关操作）。记得把代码给写短写简洁，有美感。
+
+04-19
+推荐给大家今天的每日一题：https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+尽可能多的想一下不同的解法；另外即使accepted之后，也多看题解里面，有很多不错的解法。
