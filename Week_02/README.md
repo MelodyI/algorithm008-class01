@@ -7,8 +7,7 @@
 |242|简单|[有效的字母异位词](./validAnagram)|X||X|完成|
 |49|简单|[字母异位词分组](./groupAnagrams)|X||X|完成|
 |1|简单|[两数之和](./twoSum)|X|||完成|
-
-### 作业-写一个关于HashMap的小总结(未完成)
+|-|-|[HashMap小总结](./hashMap)|X|||未完成|
 
 ## 第6课(Part A)-树、二叉树、二叉搜索树
 ### 练习题
@@ -34,6 +33,8 @@
 |239|困难|[滑动窗口最大值](./slidingWindowMaximum)|X|||完成|
 |347|中等|[前K个高频元素](./topKFrequentElements)|X|||完成|
 |49|中等|[丑数](./chouShuLcof)||||未完成|
+|-|-|[自己画一下有向有权图](./graph)||||未完成|
+|200|中等|[岛屿数量](./numberOfIslands)||||完成|
 
 ### 自学资料
 [HeapSort](https://www.geeksforgeeks.org/heap-sort/)
