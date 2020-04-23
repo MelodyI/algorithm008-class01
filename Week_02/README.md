@@ -41,6 +41,7 @@
 |04-21|350|简单|[两个数组的交集II](./intersectionOfTwoArraysII)|-|-|
 |04-21|392|简单|[判断子序列](./isSubsequence)|-|-|
 |04-21|17.09|简单|[第 k 个数](./getKthMagicNumberLcci)|-|-|
+|04-22|1021|简单|[删除最外层的括号](./removeOuterParentheses)|-|-|
 |04-23|283|简单|[移动零](../Week_01/moveZeroes)|-|已完成|
 |04-23|258|简单|[各位相加](./addDigits)|-|已完成|
 |04-23|412|简单|[FizzBuzz](./fizzBuzz)|-|已完成|
