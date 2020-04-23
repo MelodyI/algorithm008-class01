@@ -48,3 +48,4 @@
 |70|简单|[爬楼梯](../Week_01/climbStairs)|递归|完成|
 |22|中等|[括号生成](./generateParenthesis)|-|未完成|
 |50|中等|[Pow(x, n)](./powXN)||完成|
+|78|中等|[子集](./subsets)||完成|
