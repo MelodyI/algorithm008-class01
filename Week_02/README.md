@@ -49,3 +49,4 @@
 |22|中等|[括号生成](./generateParenthesis)|-|未完成|
 |50|中等|[Pow(x, n)](./powXN)||完成|
 |78|中等|[子集](./subsets)||完成|
+|78|困难|[N皇后](./nQueens)||未完成|
