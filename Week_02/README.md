@@ -32,7 +32,7 @@
 |40|简单|[最小的k个数](./zuiXiaoDeKgeShuLcof)|X|||完成|
 |239|困难|[滑动窗口最大值](./slidingWindowMaximum)|X|||完成|
 |347|中等|[前K个高频元素](./topKFrequentElements)|X|||完成|
-|49|中等|[丑数](./nthUglyNumber)||||未完成|
+|49|中等|[丑数](./nthUglyNumber)||||完成|
 |-|-|[自己画一下有向有权图](./graph)||||未完成|
 |200|中等|[岛屿数量](./numberOfIslands)||||完成|
 
