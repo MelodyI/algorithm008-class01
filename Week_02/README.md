@@ -16,8 +16,7 @@
 |590|简单|[N叉树的后序遍历](./nAryTreePostorderTraversal)|X|||完成|
 |589|简单|[N叉树的前序遍历](./nAryTreePreorderTraversal)|X|||完成|
 |429|中等|[N叉树的层序遍历](./nAryTreeLevelOrderTraversal)|X|||完成|
-### 思考题-树的面试题解法一般都是递归，为什么？(未完成)
-说明：同学们可以将自己的思考写在课程下方的留言区一起讨论，也可以写在第2周的学习总结中。
+|-|-|[树的面试题解法一般都是递归，为什么？](./whyRecursion)|X||||
 ## 第6课(Part B)-堆、二叉堆、图
 ### 概念
 1. 堆(Heap)：完全二叉树
