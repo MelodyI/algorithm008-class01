@@ -38,7 +38,8 @@
 |---|---|---|---|---|---|
 |04-20|299|简单|[猜数字游戏](./bullsAndCows)|数组|完成|
 |04-20|290|简单|[单词规律](./wordPattern)|数组|完成|
-|04-21|350|简单|[两个数组的交集II](./intersectionOfTwoArraysII)|-|-|
+|04-21|349|简单|[两个数组的交集I](./intersectionI)|-|完成|
+|04-21|350|简单|[两个数组的交集II](./intersectionII)|-|完成|
 |04-21|392|简单|[判断子序列](./isSubsequence)|-|-|
 |04-21|17.09|简单|[第 k 个数](./getKthMagicNumberLcci)|-|-|
 |04-22|1021|简单|[删除最外层的括号](./removeOuterParentheses)|-|-|
