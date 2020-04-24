@@ -1,8 +1,3 @@
-# 判断子序列
-[LeetCode地址](https://leetcode-cn.com/problems/is-subsequence/)
-
-## 代码
-```java
 class Solution {
     public boolean isSubsequence(String s, String t) {
         char[] arr = s.toCharArray();
@@ -15,4 +10,3 @@ class Solution {
         return true;
     }
 }
-```
