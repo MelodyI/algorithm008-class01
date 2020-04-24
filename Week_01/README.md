@@ -35,6 +35,6 @@
 |04-15|867|简单|[转置矩阵](./transposeMatrix)|数组|完成|
 |04-16|1281|简单|[整数的各位积和之差](./subtractProductAndSum/)|-|完成|
 |04-17|977|简单|[有序数组的平方](./squaresOfASortedArray)|-|完成|
-|04-17|1221|简单|[分割平衡字符串](./splitAStringInBalancedStrings)|-|-|
+|04-17|1221|简单|[分割平衡字符串](./balancedStringSplit)|贪心算法|完成|
 |04-18|917|简单|[仅仅反转字母](./reverseOnlyLetters)|-|-|
 |04-19|50|简单|[第一个只出现一次的字符](./diYiGeZhiChuXianYiCiDeZiFuLcof)|-|-|
