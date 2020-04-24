@@ -37,4 +37,4 @@
 |04-17|977|简单|[有序数组的平方](./squaresOfASortedArray)|-|完成|
 |04-17|1221|简单|[分割平衡字符串](./balancedStringSplit)|贪心算法|完成|
 |04-18|917|简单|[仅仅反转字母](./reverseOnlyLetters)|栈|完成|
-|04-19|50|简单|[第一个只出现一次的字符](./diYiGeZhiChuXianYiCiDeZiFuLcof)|-|-|
+|04-19|50|简单|[第一个只出现一次的字符](./firstUniqChar)|-|-|
