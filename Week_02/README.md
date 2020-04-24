@@ -43,7 +43,7 @@
 |04-21|392|简单|[判断子序列](./isSubsequence)|数组|完成|
 |04-21|17.09|简单|[第k个数](./getKthMagicNumber)|数组|完成|
 |04-22|1021|简单|[删除最外层的括号](./removeOuterParentheses)|-|-|
-|04-22|59|简单|[滑动窗口的最大值](../Week_01/maxSlidingWindow)|-|-|
+|04-22|59|简单|[滑动窗口的最大值](../Week_01/maxSlidingWindow)|-|完成|
 |04-23|283|简单|[移动零](../Week_01/moveZeroes)|-|已完成|
 |04-23|258|简单|[各位相加](./addDigits)|-|已完成|
 |04-23|412|简单|[FizzBuzz](./fizzBuzz)|-|已完成|
