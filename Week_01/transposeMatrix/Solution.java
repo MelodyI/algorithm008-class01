@@ -1,8 +1,3 @@
-# 滑转置矩阵
-[LeetCode地址](https://leetcode-cn.com/problems/transpose-matrix)
-
-## 程序
-```java
 class Solution {
     public int[][] transpose(int[][] A) {
         int n = A.length, m = A[0].length;
@@ -15,4 +10,3 @@ class Solution {
         return B;
     }
 }
-```
