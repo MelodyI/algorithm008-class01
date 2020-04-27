@@ -1,12 +1,7 @@
 class Solution {
-
     public int climbStairs(int n) {
-        if ( n < 3 ) {
-            return n;
-        }
-
+        if ( n < 3 ) return n;
         int f1 = 1, f2 = 2, f3 = 3;
-
         for(int i = 3; i <= n; i++){
             f3 = f1 + f2;
             f1 = f2;
@@ -14,11 +9,4 @@ class Solution {
         }
         return f3;
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int steps = solution.climbStairs(10);
-        System.out.println(steps);
-    }
-
 }
