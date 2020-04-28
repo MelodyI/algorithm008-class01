@@ -29,14 +29,9 @@ class Solution {
 }
 ```
 ## 第二次
-只是将
 ```java
+// 将
 if (node.left != null && node.right != null)
-}
-```
-换成
-```java
+// 换成
 if (node.left != null || node.right != null)
-}
 ```
-就可以了。
