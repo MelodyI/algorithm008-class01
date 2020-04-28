@@ -10,3 +10,4 @@
 |实战题目|104|简单|[二叉树的最大深度](../Week_02/maxDepthOfBinaryTree)|递归|已完成|
 |实战题目|114|简单|[二叉树的最小深度](../Week_02/minimumDepthOfBinaryTree)|-|已完成|
 |实战题目|297|困难|[二叉树的序列化与反序列化](./serializeAndDeserializeBinaryTree)|-|已完成|
+|每日一课|-|-|[如何优雅地计算斐波那契数列](./fibonacci)|-|已完成|
