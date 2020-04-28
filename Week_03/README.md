@@ -8,3 +8,4 @@
 |实战题目|226|简单|[翻转二叉树](./invertBinaryTree)||完成|
 |实战题目|98|中等|[验证二叉搜索树](./validateBinarySearchTree)|二叉搜索树|完成|
 |实战题目|104|简单|[二叉树的最大深度](../Week_02/maxDepthOfBinaryTree)|递归|已完成|
+|实战题目|114|简单|[二叉树的最小深度](../Week_02/minimumDepthOfBinaryTree)|-|已完成|
