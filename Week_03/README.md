@@ -6,3 +6,4 @@
 |实战题目|22|中等|[括号生成](../Week_02/generateParenthesis)|递归|完成|
 |-|-|-|[递归代码模板](./recursionTemplate)|递归程序模板|记录|
 |实战题目|226|简单|[翻转二叉树](./invertBinaryTree)||完成|
+|实战题目|98|中等|[验证二叉搜索树](./validateBinarySearchTree)|二叉搜索树|完成|
