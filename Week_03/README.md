@@ -14,3 +14,4 @@
 |课后作业|236|中等|[二叉树的最近公共祖先](./lowestCommonAncestor)|-|完成|
 |课后作业|105|中等|[从前序与中序遍历序列构造二叉树](./constructBinaryTree)|-|完成|
 |课后作业|77|中等|[组合](./combinations)|-|完成|
+|课后作业|46|中等|[全排列](./permutations)|-|完成|
