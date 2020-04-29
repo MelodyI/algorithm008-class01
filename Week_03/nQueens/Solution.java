@@ -55,13 +55,11 @@ class Solution {
 
     private void addSolution() {
         List<String> solution = new ArrayList<String>();
-        for (int i = 0; i < n; ++i) {
-            int col = queens[i];
+        for (int i = 0; i < n; i++) {
             StringBuilder sb = new StringBuilder();
-            for(int j = 0; j < col; ++j)
-                sb.append(".");
-            sb.append("Q");
-            for(int j = 0; j < n - col - 1; ++j) sb.append(".");
+            for (int j = 0; j < n; j++)
+                if (j == queens[i]) sb.append("Q");
+                else sb.append(".");
             solution.add(sb.toString());
         }
         output.add(solution);
