@@ -16,3 +16,5 @@
 |课后作业|77|中等|[组合](./combinations)|-|完成|
 |课后作业|46|中等|[全排列](./permutations)|回溯算法|完成|
 |课后作业|47|中等|[全排列II](./permutationsII)|回溯算法|完成|
+|参考连接|-|-|[牛顿迭代原理](http://www.matrix67.com/blog/archives/361)|牛顿迭代||
+|参考连接|-|-|[牛顿迭代代码](http://www.voidcn.com/article/p-eudisdmk-zm.html)|牛顿迭代||
