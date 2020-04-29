@@ -23,3 +23,4 @@
 |参考连接|22|中等|[括号生成问题](../Week_02/generateParenthesis)||完成|
 |参考连接|-|-|[牛顿迭代原理](http://www.matrix67.com/blog/archives/361)|牛顿迭代||
 |参考连接|-|-|[牛顿迭代代码](http://www.voidcn.com/article/p-eudisdmk-zm.html)|牛顿迭代||
+|实战题目|169|简单|[多数元素](./majorityElement)||完成|
