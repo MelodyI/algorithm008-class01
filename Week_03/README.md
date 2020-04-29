@@ -23,6 +23,8 @@
 |参考连接|22|中等|[括号生成问题](../Week_02/generateParenthesis)||完成|
 |参考连接|-|-|[牛顿迭代原理](http://www.matrix67.com/blog/archives/361)|牛顿迭代||
 |参考连接|-|-|[牛顿迭代代码](http://www.voidcn.com/article/p-eudisdmk-zm.html)|牛顿迭代||
+|实战题目|50|中等|[Pow(x, n)](../Week03/powXN)||完成|
+|实战题目|78|中等|[子集](./subsets)||完成|
 |实战题目|169|简单|[多数元素](./majorityElement)||完成|
 |实战题目|17|中等|[电话号码的字母组合](./letterCombinations)||完成|
 |实战题目|78|困难|[N皇后](../Week_03/nQueens)||完成|
