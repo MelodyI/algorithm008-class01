@@ -16,5 +16,10 @@
 |课后作业|77|中等|[组合](./combinations)|-|完成|
 |课后作业|46|中等|[全排列](./permutations)|回溯算法|完成|
 |课后作业|47|中等|[全排列II](./permutationsII)|回溯算法|完成|
+## 第8课-分治、回溯
+|类型|题号|难度|题目|知识点|状态|
+|---|---|---|---|---|---|
+|参考连接|-|-|[分治代码模板](https://shimo.im/docs/3xvghYh3JJPKwdvt/read)|||
+|参考连接|22|中等|[括号生成问题](../Week_02/generateParenthesis)||完成|
 |参考连接|-|-|[牛顿迭代原理](http://www.matrix67.com/blog/archives/361)|牛顿迭代||
 |参考连接|-|-|[牛顿迭代代码](http://www.voidcn.com/article/p-eudisdmk-zm.html)|牛顿迭代||
