@@ -1,7 +1,7 @@
 # 跳跃游戏
 [LeetCode地址](https://leetcode-cn.com/problems/jump-game)
 ## 代码
-说实话，看似简单的题目，坑还挺深。思路明白，代码还不是特别懂，先抄下来。
+说实话，看似简单的题目，坑还挺深。
 ```java
 class Solution {
     public boolean canJump(int[] nums) {
@@ -10,10 +10,10 @@ class Solution {
             if (i <= max) {
                 max = Math.max(max, nums[i] + i);
                 if ( max >= nums.length - 1)
-                    return true;
+                    break;
             }
         }
-        return false;
+        return (max >= nums.length - 1)?true:false;
     }
 }
 ```
