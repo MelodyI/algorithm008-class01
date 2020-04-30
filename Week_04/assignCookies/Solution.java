@@ -1,26 +1,14 @@
 class Solution {
-    int ans = 0;
-    int[] su;
     public int findContentChildren(int[] g, int[] s) {
-        su = new int[s.length];
+        if (g.length == 0 || s.length == 0) return 0;
         Arrays.sort(g);
         Arrays.sort(s);
-        _find(g, s, 0);
-        return ans;
-    }
-    private void _find(int[] g, int[] s, int i){
-        // terminator
-        if (i == g.length) return;
-        // process current logic
-        for (int j = 0; j < s.length; j++) {
-            if (su[j] == 1) continue;
-            if (s[j] >= g[i]) {
-                ans++;
-                su[j] = 1;
-                break;
-            }
+        int i = 0, j = 0;
+        while (i < g.length && j < s.length) {
+            if (s[j] >= g[i])
+                i++;
+            j++;
         }
-        // drill down
-        if (i + 1 < g.length) _find(g, s, i + 1);
+        return i;
     }
 }
