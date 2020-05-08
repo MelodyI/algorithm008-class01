@@ -6,3 +6,4 @@
 |参考连接|-|-|[BFS 代码模板](./bfs)|bfs|完成|
 |实战题目|102|中等|[二叉树的层序遍历](./binaryTreeLevelOrderTraversal)|dfs|完成|
 |实战题目|433|中等|[最小基因变化](./minMutation)||完成|
+|实战题目|22|中等|[括号生成](../Week_02/generateParenthesis)|递归|完成|
