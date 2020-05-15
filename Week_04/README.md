@@ -29,6 +29,7 @@
 |参考连接|-|-|[二分查找代码模板](./binarySearchTemplate)|二分查找|完成|
 |参考连接|-|-|[Fast InvSqrt() 扩展阅读](./fastInvSqrt)|牛逼|完成|
 |实战题目|69|简单|[x的平方根](./sqrtx)|二分查找|完成|
-|实战题目|367|简单|[有效的完全平方数](./perfectSquare)||完成|
-|课后作业|33|中等|[搜索旋转排序数组](./searchInRotatedSortedArray)||完成|
-|课后作业|74|中等|[搜索二维矩阵](./search2dMatrix)||完成|
+|实战题目|367|简单|[有效的完全平方数](./perfectSquare)|二分查找|完成|
+|课后作业|33|中等|[搜索旋转排序数组](./searchInRotatedSortedArray)|二分查找|完成|
+|课后作业|74|中等|[搜索二维矩阵](./search2dMatrix)|二分查找|完成|
+|课后作业|153|中等|[寻找旋转排序数组中的最小值](./findMin)|二分查找|完成|
