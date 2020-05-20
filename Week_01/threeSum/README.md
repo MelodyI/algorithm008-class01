@@ -1,3 +1,33 @@
-# 三数之和-总结
+# 三数之和
+[LeetCode地址](https://leetcode-cn.com/problems/3sum)
+## 代码
+```java
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            int j = i + 1, k = nums.length - 1;
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
+                if (sum == 0) {
+                    List<Integer> t = new ArrayList<>();
+                    t.add(nums[i]);
+                    t.add(nums[j++]);
+                    t.add(nums[k--]);
+                    ans.add(t);
 
-找到和是零的三个数并不难，主要是去重。
+                    while (j < k && nums[j] == nums[j - 1]) j++;
+                    while (j < k && nums[k] == nums[k + 1]) k--;
+                } else if (sum > 0) {
+                    k--;
+                } else {
+                    j++;
+                }
+            }
+        }
+        return ans;
+    }
+}
+```
