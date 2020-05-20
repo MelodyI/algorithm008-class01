@@ -1,0 +1,18 @@
+# 旋转数组
+[LeetCode地址](https://leetcode-cn.com/problems/rotate-array)
+## 代码
+```java
+class Solution {
+    public void rotate(int[] nums, int k) {
+        int tmp, prev;
+        for (int i = 0 ; i < k; i++) {
+            prev = nums[nums.length - 1];
+            for (int j = 0; j < nums.length; j++) {
+                tmp = nums[j];
+                nums[j] = prev;
+                prev = tmp;
+            }
+        }
+    }
+}
+```
