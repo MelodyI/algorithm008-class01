@@ -1,7 +1,7 @@
 class Solution {
 
     public int largestRectangleArea(int[] heights) {
-        Stack < Integer > stack = new Stack < > ();
+        Stack<Integer> stack = new Stack<>();
         stack.push(-1);
         int maxarea = 0;
         for (int i = 0; i < heights.length; ++i) {
