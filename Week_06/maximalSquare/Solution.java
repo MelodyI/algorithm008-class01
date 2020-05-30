@@ -19,7 +19,7 @@ public class Solution {
                 }
             }
         }
-        int maxSquare = Math.pow(maxSide);
+        int maxSquare = (int)Math.pow(maxSide, 2);
         return maxSquare;
     }
 }
